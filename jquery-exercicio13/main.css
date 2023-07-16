@@ -1,0 +1,14 @@
+.verde{
+    background-color: lime;
+}
+.vermelho{
+    background-color: red;
+}
+.azul{
+    background-color: blue;
+}
+#caixa{
+    width: 100px;
+    height: 100px;
+    border: 1px solid black;
+}
